@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello World , <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> | <b>I'm Asma Kolaib ! </b> </h2>
+<h2 align="center">Hello World , <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> | <b>I'm Asma Kolaib !  </b> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
  <p align="center">
     <a href="https://twitter.com/as_kolaib"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
