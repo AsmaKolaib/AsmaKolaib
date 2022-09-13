@@ -24,5 +24,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AsmaKolaib.visitor-badge)
 
+<img src="https://github.com/5c0/5c0/blob/output/github-contribution-grid-snake.svg"/>
 
 ![Cristianmarints's github stats](https://github-readme-stats.vercel.app/api?username=AsmaKolaib&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
