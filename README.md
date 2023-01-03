@@ -12,7 +12,7 @@
 <hr>
 
 - 🔭 I’m currently working as Freelancer.
-- 🌱 I’m currently learning Node Js, MongoDB and Laravel.
+- 🌱 I’m currently learning Node Js, MongoDB.
 - 🤔 I’m looking for help with UX.
 - 🎯 I’m Looking forward to learn Python, ML and DL.
 - 👯 I’m looking to collaborate on any project.
