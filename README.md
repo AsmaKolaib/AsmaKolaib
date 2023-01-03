@@ -19,11 +19,10 @@
 - 🤝 Available for Freelance projects/Remote opportunities.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: as.kolaib@gmail.com 
-<!-- - ⚡ Fun fact: 🐼 -->
+- 🍉 Fun fact: I can probably eat half a watermelon in one sitting, it's my spirit fruit.
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AsmaKolaib.visitor-badge)
 
-<img src="https://github.com/5c0/5c0/blob/output/github-contribution-grid-snake.svg"/>
 
 ![Cristianmarints's github stats](https://github-readme-stats.vercel.app/api?username=AsmaKolaib&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
