@@ -7,7 +7,7 @@
     <a href="https://dribbble.com/as_kolaib"><img src="https://img.shields.io/badge/dribbble-%23ea4c89?style=flat&logo=dribbble&logoColor=white"/></a>
     <a href="https://www.instagram.com/as_kolaib"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
-<h3 align= "center"><b> I'm Full Stack Web Developer 👩‍💻 & UI/UX Designer 🧙‍♀️ </b></h3>
+<h3 align= "center"><b> I'm Web Developer & UI Designer 🧞‍♀️</b></h3>
 
 <hr>
 
