@@ -13,7 +13,6 @@
 
 - 🔭 I’m currently working as Freelancer.
 - 🌱 I’m currently learning GSAP animation
-- 🤔 I’m looking for help with UX.
 - 🎯 I’m Looking forward to learn Python, ML and DL.
 - 👯 I’m looking to collaborate on any project.
 - 🤝 Available for Freelance projects/Remote opportunities.
