@@ -12,8 +12,6 @@
 <hr>
 
 - 🔭 I’m currently working as Freelancer.
-- 🌱 I’m currently learning GSAP animation
-- 🎯 I’m Looking forward to learn Python, ML and DL.
 - 👯 I’m looking to collaborate on any project.
 - 🤝 Available for Freelance projects/Remote opportunities.
 - 💬 Ask me about anything, I am happy to help.
